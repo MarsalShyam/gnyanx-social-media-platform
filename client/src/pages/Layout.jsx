@@ -3,7 +3,7 @@ import React from 'react'
 const Layout = () => {
   return (
     <div>
-      Layout
+      <h1>Layout</h1>
     </div>
   )
 }
